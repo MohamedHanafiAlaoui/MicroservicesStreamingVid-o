@@ -1,0 +1,3 @@
+com\streaming\gateway\config\GatewayConfig.class
+com\streaming\gateway\config\SwaggerConfig.class
+com\streaming\gateway\GatewayServiceApplication.class
