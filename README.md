@@ -113,6 +113,7 @@ streaming-platform/
 - **Type Filtering**: Movies vs TV Series
 - **Ratings**: 5-star rating system
 - **Metadata**: Title, description, thumbnail, release year
+<img width="1094" height="501" alt="image" src="https://github.com/user-attachments/assets/c830a35d-49b2-44ee-91cc-864fdc4554ba" />
 
 ### Database Schema
 ```sql
@@ -397,3 +398,4 @@ For support and questions:
 ---
 
 **Built with ❤️ using modern web technologies**
+
